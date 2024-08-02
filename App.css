@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(49, 46, 46);
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.card-body {
+  text-align: center;
+}
